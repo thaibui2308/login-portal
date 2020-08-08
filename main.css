@@ -1,0 +1,90 @@
+body.signin-body{
+    background-color: rebeccapurple;
+}
+div.signin-container{
+    margin: 2% 15% 5% 15%;
+}
+div.signin-card{
+    padding: 0 2px 2px 3px;
+    box-shadow: -3px -3px #ee5222;
+    -webkit-box-shadow: -3px -3px #ee5222;
+    -moz-box-shadow: -3px -3px #ee5222;
+    border: 1px solid;
+    margin-right: 10%;
+}
+img.signin-img{
+    padding: 0 2rem 1px;;
+    margin: auto;
+    display: block;
+    width: 60%;
+    
+    
+}
+div.signin-col{
+    margin-left:12.33343%;
+}
+
+div.signin-nav{
+   border-style: inset;
+   max-width: 15.5%;
+   margin-top:0.5%;
+    margin-left: -8%;
+   border: 1px inset;
+   border-radius: 5px;
+   
+}
+.nav-logo{
+    font-family: 'Bangers', cursive;
+    
+    
+}
+
+form.signin-form{
+    max-width: 350px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.signin{
+    margin: auto 10% auto 22%;
+    color: #ffffff;
+    background-color: #45ee77;
+}
+.signin-navbar{
+    border-left: 15px;
+    border-radius: 50%
+    
+}
+div.welcome{
+    text-align:center;
+    font-family: 'Modak', cursive;
+}
+#navbarNav{
+    margin-left: 45%;
+}
+button.signin{
+    margin-left: 40%;
+}
+button.submit{
+    margin-top: 4%;
+    margin-left: 40%;
+}
+img.signin-img{
+    max-width: 250px;
+    border-radius: 55%;
+}
+div.signup-form{
+    margin-left: 20%
+}
+a.current{
+    background-color:darksalmon;
+    border-radius: 10% 20% 5% 20%;
+    
+}
+
+.checking{
+    color:red;
+}
+.checked{
+    color:green;
+}
